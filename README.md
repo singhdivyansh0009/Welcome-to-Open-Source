@@ -61,6 +61,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rohan Badiger</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/singhdivyansh0009">
+                    <img src="https://avatars.githubusercontent.com/u/102811377?v=4" width="100px;" alt="Divyansh Kumar Singh"/>
+                    <br />
+                    <sub><b>Divyansh Kumar Singh</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://github.com/tkeefe">
                     <img src="https://avatars.githubusercontent.com/u/23178930?v=4" width="100px;" alt="Travis Keefe"/>
